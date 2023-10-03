@@ -1,0 +1,44 @@
+name: Scrape latest data
+
+on:
+  workflow_dispatch:
+  schedule:
+  # this runs in UTC
+  - cron: '0 3 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: make HOME/.local/bin
+      run: |
+        mkdir -p "${HOME}/.local/bin"
+        sudo apt-get update
+        sudo apt-get install -y ca-certificates
+        sudo update-ca-certificates
+        python -m pip install --upgrade pipenv wheel
+    - name: append HOME/.local/bin to PATH
+      run: echo "${HOME}/.local/bin" >> $GITHUB_PATH
+    - name: download latest htmlq
+      run: |-
+        wget $(wget -q -O - https://api.github.com/repos/mgdm/htmlq/releases/latest  |  jq -r '.assets[] | select(.name | contains("linux")) | .browser_download_url')
+        tar -xvf htmlq-x86_64-linux.tar.gz
+        chmod +x htmlq
+        mv htmlq $HOME/.local/bin/
+    - name: Check out this repo
+      uses: actions/checkout@v3
+      with:
+        ref: main
+    - name:
+      run: |
+        bash ppag-all.sh
+        pipenv install
+        python3 ppagscrape.py
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Adding latest data ${timestamp}" || exit 0
+        git push
