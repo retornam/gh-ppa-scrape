@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   schedule:
   # this runs in UTC
-  - cron: '0 3 * * *'
+  # so 3AM every 1st of the month
+  # min(0-59), hour(0-23), day of month(1-31), month(1-12), day of week(0-6)
+  # run once a month to say money
+  - cron: '0 3 1 * *'
 
 jobs:
   scheduled:
@@ -14,7 +17,7 @@ jobs:
       run: |
         mkdir -p "${HOME}/.local/bin"
         sudo apt-get update
-        sudo apt-get install -y ca-certificates
+        sudo apt-get install -y ca-certificates parallel
         sudo update-ca-certificates
         python -m pip install --upgrade pipenv wheel
     - name: append HOME/.local/bin to PATH
