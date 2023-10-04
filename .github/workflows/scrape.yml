@@ -37,6 +37,7 @@ jobs:
         bash ppag-all.sh
         pipenv install
         python3 ppagscrape.py
+        python3 ghanepsscrape.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
