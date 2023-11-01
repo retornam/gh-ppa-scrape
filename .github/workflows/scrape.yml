@@ -34,7 +34,7 @@ jobs:
         ref: main
     - name:
       run: |
-        bash ppag-all.sh
+        bash better-ppag-all.sh
         pipenv install
         python3 ppagscrape.py
         python3 ghanepsscrape.py
