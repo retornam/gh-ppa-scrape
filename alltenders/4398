@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>PPA Ghana</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/stylesheets/style.css">
+    <link href="https://tenders.ppa.gov.gh/css/helpers.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/front.css">
+    <link href="images/icon/favicon.png" rel="shortcut icon">
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>  
+
+<body class="header-sticky">
+
+    <div class="boxed">
+        <!-- Wrap-slide -->
+        <div class="wrap-slider">
+            <!-- Header -->            
+            <header id="header" class="header style-color clearfix">
+                <div class="container">
+                    <div class="header-wrap d-flex justify-content-between align-items-center">
+                        <div id="logo" class="logo">
+                            <a href="/" rel="home">
+                                <img src="https://tenders.ppa.gov.gh/images/logo2.jpg" alt="image" style="height: 100px">
+                            </a>
+                        </div><!-- /.logo -->
+                        <div class="">
+                            <a href="https://tenders.ppa.gov.gh/admin" class="btn btn-danger"><i class="fa fa-lock"></i> Admin</a>
+                        </div>
+                    </div><!-- /.header-wrap -->
+                </div>
+            </header><!-- /.header -->
+        </div> <!-- /.wrap-slider -->
+
+        <section id="navbar">    
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <a class="navbar-brand d-lg-none" href="#">Nav Menu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </section>
+        
+        <!-- posts -->
+        <section class="main-content bg-sidebar sidebar-left mr-b-50">
+            <div class="container">
+                <div class="flat-overview">
+                    <div class="wrap-main-post">
+                        <div class="row">
+                                                            <div class="col-md-3">
+                                    <div class="sidebar">
+                                                                                <div class="widget widget-categories team">
+                                            <h4>Page Links</h4>
+                                            <nav class="navbar bg-light">
+                                                <ul class="navbar-nav">
+                                                    <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                                                </ul>
+                                            </nav>
+                                        </div><!-- /widget-archives -->
+                                    </div><!-- /sidebar -->
+                                </div><!-- /col-md-3 -->
+                            
+                            <div class="col-md-9">
+                                <h3 class="title">Contract Details</h3>
+                                <div class="content">
+                                    
+<dl><dt>Awarding Agency:</dt><dd>Land Administration Project</dd></dl>
+<dl><dt>Tender Package No:</dt><dd>PCU 25-89</dd></dl>
+<dl><dt>Tender Type:</dt><dd>NCT</dd></dl>
+<dl><dt>Contract Type:</dt><dd>Open Tender</dd></dl>
+<dl><dt>Lot #:</dt><dd>1</dd></dl>
+<dl><dt>Tender Description:</dt><dd>Consultancy Services for Independent Assessment of the Impact of the Pilot Interventions in the Customary Land Administration Sector in Ghana by the Land Administration Project.<br />
+<br />
+The Ministry of Lands and Natural Resources has received financing from the World Bank toward the cost of the Second Land Administration Project (LAP-2), and intends to apply part of the proceeds for consultant services.<br />
+<br />
+LAP-2 is a follow on project of LAP-1 and is being implemented based on the National Land Policy which came into effect in 1999.  The Project concentrates on completing outstanding legal and institutional reforms, removing business bottlenecks, promoting transparency and addressing various land administration challenges with the view to: (i) speeding up land registration and delivery of titles and deeds; (ii) enhancing security of tenure; and (iii) strengthening the settlement of land disputes, among others.  The Project also supports the completion of the Land Bill, engaging in legislative and institutional reforms started under LAP-1.  The Project is being implemented through four-interrelated Components, namely:<br />
+<br />
+1. strengthening the Policy, Legal and Regulatory Framework for Land Administration; <br />
+2. decentralizing and improving Business and Service Delivery Processes; <br />
+3. providing improved Maps and Spatial Data for Land Administration; and <br />
+4. engaging in Human Resource Development and Project Management.<br />
+<br />
+The purpose of the assignment is to undertake an independent assessment of the impact of Land Administration Projectâ€™s (Phase I and II) pilot interventions in the customary land sector. The Assessment will mainly focus on the Customary Land Secretariats and other interventions such as the Customary Boundary Demarcation, Rural Parcel Rights Demarcation and Ascertainment of Customary Law on Family and Land.<br />
+<br />
+The objective of the consultancy is to assess the impacts of the above interventions under LAP-I and II, the appropriateness of the design, sustainability of the interventions and  <br />
+lessons learnt to inform future interventions.<br />
+<br />
+The consulting services (â€œthe Servicesâ€) include:<br />
+The Consultancy will among other things:<br />
+<br />
+â€¢	Assess the relevance, efficiency and effectiveness of the methodology and processes for executing these interventions;<br />
+â€¢	Assess the impact of the interventions on their contribution to:   <br />
+o	 minimizing and eliminating where applicable, sources of protracted land boundary disputes, conflicts and litigations, <br />
+o	ascertain the impact of LAP interventions on the customary land tenure systems, including issues related to perceptions of  ownership, possession, access; transfers,, administration and womenâ€™s access and rights.  <br />
+o	promoting local level participation and awareness on sustainable land administration and management practices for optimum returns on land etc. <br />
+o	Assess the general improvements associated with the interventions  in the customary land governance <br />
+â€¢	Focus on the CLS interventions, <br />
+o	for example, establishing transparency, respect for land rights, land records management, and the provision of land services, among others to improve customary land governance. The extent to which these have been achieved and their impacts.<br />
+â€¢	Highlight achievements, challenges and sustainability of the interventions <br />
+â€¢	Provide recommendations to improve the current interventions and;<br />
+â€¢	Document lessons learnt to shape the design of future interventions.<br />
+<br />
+The assignment will be executed over a total of 3 months utilizing 3 man-months.<br />
+<br />
+The Ministry of Lands and Natural Resources through the Project Coordinating Unit now invites eligible Individual consultants to indicate their interest in providing the services.  Interested consultants should provide information demonstrating that they have the required qualifications and relevant experience to perform the Services. The shortlisting criteria are:<br />
+a.	Relevant experience, qualifications, and capability to carry out the assignment;<br />
+b.	An Individual Consultant, a Social Scientist, with proven record in at least five (5) years experience in conducting similar assignments and have a firm understanding and knowledge in customary land administration and anthropology.<br />
+c.	Should have at least a Masterâ€™s Degree or higher from a recognized University and must be fluent in English and familiar with local setting.<br />
+<br />
+Firms may provide qualified individual consultant for the assignment and contract will be signed with the firm.<br />
+</dd></dl>
+
+<hr>
+
+<dl><dt>Approval Auth:</dt><dd>Entity Tender Committee</dd></dl>
+<dl><dt>Contract Date:</dt><dd>09th August, 2016</dd></dl>
+<dl><dt>Delivery / Completion Date:</dt><dd>09th December, 2016</dd></dl>
+<dl><dt>Contract Currency:</dt><dd>USA Dollar</dd></dl>
+<dl><dt>Contract Award Price:</dt><dd>$66956.00</dd></dl>
+
+<hr>
+
+<dl><dt>Contract Awarded To:</dt><dd>John Tiah Bugri</dd></dl>
+<dl><dt>Company Email:</dt><dd></dd></dl>
+<dl><dt>Company Address:</dt><dd></dd></dl>
+<dl><dt>Company Tel:</dt><dd></dd></dl>
+<dl><dt>Supplier #:</dt><dd>-</dd></dl>
+
+<hr>
+
+                                </div>
+                            </div><!-- /.col-md-9 --> 
+                        </div><!-- /.wrap-main-post -->
+                    </div><!-- /.row -->
+                </div>            
+            </div><!-- /.container -->   
+        </section><!-- /.main-content -->
+        <!-- Bottom -->
+        <div class="bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="container-bottom">
+                            <div class="copyright"> 
+                                <p>Coyright © 2019 PPA Ghana. All rights reserved.</p>
+                            </div>    
+                        </div><!-- /.container-bottom -->
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- Bottom -->
+
+        <!-- Go Top -->
+        <a class="go-top">
+            <i class="fa fa-arrow-up" aria-hidden="true"></i>
+        </a>   
+        
+       <!-- Javascript -->
+        <script src="https://tenders.ppa.gov.gh/javascript/jquery.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/bootstrap4.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/front.js"></script>
+    </div> <!-- /.boxed -->
+</body>
+</html>

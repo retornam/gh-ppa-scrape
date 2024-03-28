@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>PPA Ghana</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/stylesheets/style.css">
+    <link href="https://tenders.ppa.gov.gh/css/helpers.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/front.css">
+    <link href="images/icon/favicon.png" rel="shortcut icon">
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>  
+
+<body class="header-sticky">
+
+    <div class="boxed">
+        <!-- Wrap-slide -->
+        <div class="wrap-slider">
+            <!-- Header -->            
+            <header id="header" class="header style-color clearfix">
+                <div class="container">
+                    <div class="header-wrap d-flex justify-content-between align-items-center">
+                        <div id="logo" class="logo">
+                            <a href="/" rel="home">
+                                <img src="https://tenders.ppa.gov.gh/images/logo2.jpg" alt="image" style="height: 100px">
+                            </a>
+                        </div><!-- /.logo -->
+                        <div class="">
+                            <a href="https://tenders.ppa.gov.gh/admin" class="btn btn-danger"><i class="fa fa-lock"></i> Admin</a>
+                        </div>
+                    </div><!-- /.header-wrap -->
+                </div>
+            </header><!-- /.header -->
+        </div> <!-- /.wrap-slider -->
+
+        <section id="navbar">    
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <a class="navbar-brand d-lg-none" href="#">Nav Menu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </section>
+        
+        <!-- posts -->
+        <section class="main-content bg-sidebar sidebar-left mr-b-50">
+            <div class="container">
+                <div class="flat-overview">
+                    <div class="wrap-main-post">
+                        <div class="row">
+                                                            <div class="col-md-3">
+                                    <div class="sidebar">
+                                                                                <div class="widget widget-categories team">
+                                            <h4>Page Links</h4>
+                                            <nav class="navbar bg-light">
+                                                <ul class="navbar-nav">
+                                                    <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                                                </ul>
+                                            </nav>
+                                        </div><!-- /widget-archives -->
+                                    </div><!-- /sidebar -->
+                                </div><!-- /col-md-3 -->
+                            
+                            <div class="col-md-9">
+                                <h3 class="title">Contract Details</h3>
+                                <div class="content">
+                                    
+<dl><dt>Awarding Agency:</dt><dd>Ghana Cocoa Board</dd></dl>
+<dl><dt>Tender Package No:</dt><dd>GCB/PD/CC/NCT/V.1/2021/04</dd></dl>
+<dl><dt>Tender Type:</dt><dd>NCT</dd></dl>
+<dl><dt>Contract Type:</dt><dd>Open Tender</dd></dl>
+<dl><dt>Lot #:</dt><dd>7</dd></dl>
+<dl><dt>Tender Description:</dt><dd>INVITATION TO TENDER FOR THE PROCUEREMNT OF <br />
+VARIOUS PHARMACEUTICAL PRODUCTS UNDER FRAME WORK AGREEMENTS<br />
+<br />
+CONTRACT NO: IFT/GCB/PD/CC/NCT/V.1/2021/04<br />
+<br />
+1.	Ghana Cocoa Board intends to apply part of its budgetary allocation to fund eligible payments under frame work agreements for the procurement of various Pharmaceutical Products as indicated below:<br />
+ <br />
+No. of Lots	Description	Qty.	Delivery Terms	Delivery Site	Tender Security<br />
+<br />
+19	<br />
+Medicines and Non-Medicine Consumables	<br />
+Various	<br />
+Call-Off Basis for a period of 24 months	<br />
+Cocoa Clinic Accra and Cocoa Clinic Kumasi	<br />
+2% of Total Tender Price from reputable a Bank<br />
+<br />
+2.	Ghana Cocoa Board invites sealed tenders from eligible tenderers for the procurement of various Pharmaceutical Products through frame work agreement. Tendering will be conducted through the National Competitive Tendering procedures specified in the Public Procurement Act, 2003, Act 663  as amended by the Public Procurement (Amendment) Act 2016, Act 914 and  the Guidelines of the Public Procurement Authority.<br />
+<br />
+3. 	Further information may be obtained from the Senior Procurement Manager, Ghana Cocoa Board, 5th Floor, Room 502 from Tuesday, 1st June 2021 between the hours of 8.30 a.m. and 4.30 p.m.<br />
+<br />
+4.   A complete set of tender documents in English may be inspected and purchased by<br />
+      interested Tenderers on the submission of a written application to the address below and<br />
+      upon payment of a non-refundable fee of Three Hundred Ghana Cedis (GH¢300.00). <br />
+      The method of payment will be Cash or Bankers Draft payable to Ghana Cocoa Board.<br />
+<br />
+5.  Payment for the planned contract will be effected within Forty (45) days of acceptance of<br />
+     delivery. The Board reserves the right to terminate the contract if the supplier fails to perform<br />
+     to the required standard agreed on in the tender.<br />
+<br />
+6.  COCOBOD will enter into a call – off contract (i.e. Framework Agreement) with the supplier<br />
+     for a period of two (2) years. The call – off period would be on quarterly basis.<br />
+<br />
+7.  The Purchase order call-offs will be subject to the terms and conditions of the framework<br />
+     agreements. The tender shall be valid for a period of one (1) year after the date of submission.<br />
+     An allowance of price flexibility margin on the award price would be made to take care of<br />
+     forex variations and inflations during lock- in period (one year). This allowance will ONLY <br />
+     apply after the expiration of the tender validity period of one (1) year in the absence of <br />
+     forex variation and inflations during lock-in period.<br />
+<br />
+8.   All Tenders must be accompanied by a Tender Security of not less than Two Percent   <br />
+      (2%) of the total tender price from any reputable Financial Institution. <br />
+<br />
+9.   Late tenders will not be accepted and will be returned unopened to the tenderer. Tenders   <br />
+     will be opened in the presence of the Tenderers’ representatives who choose to attend at the   <br />
+     Board Room, 4th Floor (Room 407) Cocoa House, immediately after close of  <br />
+     tender on Wednesday, 30th June, 2021 at 11.00 a.m.<br />
+<br />
+       7.   It is mandatory that tenderers include in their tenders the underlisted statutory     <br />
+             requirement: <br />
+-	Business Registration Certificate<br />
+-	Valid Ghana Revenue Authority Tax Clearance Certificate<br />
+-	Valid SSNIT Clearance Certificate <br />
+-	VAT Certificate/Evidence of VAT Exemption<br />
+-	Public Procurement Authority (PPA) Registration Certificate<br />
+-	Food and Drugs Authority Certificate<br />
+-	Valid Certificate of Registration from the Pharmacy Council<br />
+-	The Pharmaceutical Wholesaler/Manufacturer must show proof of registration of the facility by a Pharmacist<br />
+<br />
+8.  A successful Tenderer shall be required to submit 5% of the total tender price as   <br />
+     Performance Guarantee from a Reputable Bank, in a format provided in the tender   <br />
+     document before a Contract is awarded.<br />
+<br />
+9.  Tender clearly labeled and marked “PROCUREMENT OF VARIOUS <br />
+     PHARMACEUTICAL PRODUCTS” must be deposited in a tender box at the address  <br />
+     below on or before Wednesday, 30th June, 2021 at 11.00 am;    <br />
+<br />
+The Procurement Department<br />
+Ghana Cocoa Board, Cocoa House, Accra<br />
+5th Floor, (Room 502)<br />
+Opposite The Ghana Supply Company Ltd. on the Kwame Nkrumah Ave. <br />
+<br />
+Telephone Nos. :	233-0302-661873<br />
+			233-0302-661872<br />
+			233-0302-683300<br />
+Fascimile	   :	233-0302-667104<br />
+			233-0302-661681<br />
+			233-0302-669808<br />
+			233-0302-679864<br />
+			<br />
+		E-mail		   :	cocobod@cocobod.gh<br />
+<br />
+<br />
+<br />
+<br />
+CHIEF EXECUTIVE</dd></dl>
+
+<hr>
+
+<dl><dt>Approval Auth:</dt><dd>Central Tender Review Committee</dd></dl>
+<dl><dt>Contract Date:</dt><dd>28th June, 2022</dd></dl>
+<dl><dt>Delivery / Completion Date:</dt><dd>28th June, 2023</dd></dl>
+<dl><dt>Contract Currency:</dt><dd>Ghana Cedi</dd></dl>
+<dl><dt>Contract Award Price:</dt><dd>Gh¢5482578.36</dd></dl>
+
+<hr>
+
+<dl><dt>Contract Awarded To:</dt><dd>WORLDWIDE HEALTHCARE LIMITED</dd></dl>
+<dl><dt>Company Email:</dt><dd></dd></dl>
+<dl><dt>Company Address:</dt><dd></dd></dl>
+<dl><dt>Company Tel:</dt><dd></dd></dl>
+<dl><dt>Supplier #:</dt><dd>-</dd></dl>
+
+<hr>
+
+                                </div>
+                            </div><!-- /.col-md-9 --> 
+                        </div><!-- /.wrap-main-post -->
+                    </div><!-- /.row -->
+                </div>            
+            </div><!-- /.container -->   
+        </section><!-- /.main-content -->
+        <!-- Bottom -->
+        <div class="bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="container-bottom">
+                            <div class="copyright"> 
+                                <p>Coyright © 2019 PPA Ghana. All rights reserved.</p>
+                            </div>    
+                        </div><!-- /.container-bottom -->
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- Bottom -->
+
+        <!-- Go Top -->
+        <a class="go-top">
+            <i class="fa fa-arrow-up" aria-hidden="true"></i>
+        </a>   
+        
+       <!-- Javascript -->
+        <script src="https://tenders.ppa.gov.gh/javascript/jquery.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/bootstrap4.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/front.js"></script>
+    </div> <!-- /.boxed -->
+</body>
+</html>

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>PPA Ghana</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/stylesheets/style.css">
+    <link href="https://tenders.ppa.gov.gh/css/helpers.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/front.css">
+    <link href="images/icon/favicon.png" rel="shortcut icon">
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>  
+
+<body class="header-sticky">
+
+    <div class="boxed">
+        <!-- Wrap-slide -->
+        <div class="wrap-slider">
+            <!-- Header -->            
+            <header id="header" class="header style-color clearfix">
+                <div class="container">
+                    <div class="header-wrap d-flex justify-content-between align-items-center">
+                        <div id="logo" class="logo">
+                            <a href="/" rel="home">
+                                <img src="https://tenders.ppa.gov.gh/images/logo2.jpg" alt="image" style="height: 100px">
+                            </a>
+                        </div><!-- /.logo -->
+                        <div class="">
+                            <a href="https://tenders.ppa.gov.gh/admin" class="btn btn-danger"><i class="fa fa-lock"></i> Admin</a>
+                        </div>
+                    </div><!-- /.header-wrap -->
+                </div>
+            </header><!-- /.header -->
+        </div> <!-- /.wrap-slider -->
+
+        <section id="navbar">    
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <a class="navbar-brand d-lg-none" href="#">Nav Menu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </section>
+        
+        <!-- posts -->
+        <section class="main-content bg-sidebar sidebar-left mr-b-50">
+            <div class="container">
+                <div class="flat-overview">
+                    <div class="wrap-main-post">
+                        <div class="row">
+                                                            <div class="col-md-3">
+                                    <div class="sidebar">
+                                                                                <div class="widget widget-categories team">
+                                            <h4>Page Links</h4>
+                                            <nav class="navbar bg-light">
+                                                <ul class="navbar-nav">
+                                                    <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                                                </ul>
+                                            </nav>
+                                        </div><!-- /widget-archives -->
+                                    </div><!-- /sidebar -->
+                                </div><!-- /col-md-3 -->
+                            
+                            <div class="col-md-9">
+                                <h3 class="title">Contract Details</h3>
+                                <div class="content">
+                                    
+<dl><dt>Awarding Agency:</dt><dd>Ghana Cocoa Board</dd></dl>
+<dl><dt>Tender Package No:</dt><dd>GCB/HO/PU/NCT/VH/V.1/2019/02</dd></dl>
+<dl><dt>Tender Type:</dt><dd>NCT</dd></dl>
+<dl><dt>Contract Type:</dt><dd>Open Tender</dd></dl>
+<dl><dt>Lot #:</dt><dd>1</dd></dl>
+<dl><dt>Tender Description:</dt><dd>GHANA COCOA BOARD<br />
+<br />
+NATIONAL COMPETITIVE TENDER<br />
+<br />
+INVITATION FOR TENDER FOR THE PROCUREMENT OF VARIOUS VEHICLES AND MOTORBIKES<br />
+<br />
+IFT NO.: GCB/HO/PU/NCT/VH/V.1/2019/02<br />
+<br />
+1.	     Ghana Cocoa Board intends to apply part of its budgetary allocation to fund<br />
+     eligible payments under the contract for the procurement of various Vehicle and   <br />
+      Motorbikes as detailed below:<br />
+ <br />
+Lot	Description	Quantity	Delivery Site<br />
+1	4 Tonne Truck	18 No.	<br />
+<br />
+<br />
+<br />
+DDP - Cocoa House, Accra<br />
+2	10 Tonne  Haulage Truck	8 No.	<br />
+3	4x2 Ambulance	3 No.	<br />
+4	4x4 Station Wagon Ambulance	1 No.	<br />
+5	10 Tonne Medical  Delivery Van	1 No.	<br />
+6	3 Tonne Forklift	4 No.	<br />
+7	Tractor with trailer	9 No.	<br />
+8	10 Tonne Cesspit Emptier	1 No.	<br />
+9	Backhoe Machine	1 No.	<br />
+10	Motorbike	11 No.	<br />
+<br />
+       NB- Tenderers shall quote for all the quantities in a Lot. Partial quotations shall be disqualified. 	<br />
+2. 	Tenderers may quote for one (1) or more Lots and contract will be awarded <br />
+             on Lot basis.<br />
+<br />
+3.	Ghana Cocoa Board invites sealed tenders for the Procurement of the above-mentioned items. Tendering will be conducted through the National Competitive Tendering procedures specified in the Public Procurement Act, 2003 (Act 663), Amendment Act, 2016 (Act 914) and the Guidelines of the Public Procurement Authority.<br />
+4.	A complete Tender document in ENGLISH may be purchased by interested <br />
+            Tenderers after inspection and submission of a written application to the address	below and upon the payment of a non-refundable fee of Three Hundred Ghana	Cedis	(GH¢300.00). The method of payment shall be Cash or	Banker’s <br />
+           draft in the name of Ghana Cocoa Board.<br />
+<br />
+<br />
+<br />
+ 5.	Further information may be obtained from the Procurement Director, Ghana Cocoa Board, 5th Floor, Room 502 from Monday, 30th September, 2019 till the close of tender on Wednesday, 16th October, 2019 at 10.30 am.<br />
+6.	All Tenders must be accompanied by a Tender Security of not less than Two Percent (2%) of the Total Tender Price from a Reputable Bank in Ghana.  All quotations shall be in Ghana Cedis.<br />
+7.	The following documents are to be submitted together with the tender document: <br />
+-Valid Business Registration Certificates<br />
+-Valid SSNIT Clearance Certificate<br />
+-Valid Ghana Revenue Authority Tax Clearance Certificate<br />
+-VAT Certificate / Evidence of VAT Exemption<br />
+-Public Procurement Authority (PPA) Certificate<br />
+-Audited Financial Statement for the last three (3) years<br />
+-Manufacturer’s Authorization<br />
+<br />
+8. 	Tenders shall be valid for a period of 120 days after deadline of Tender submission. Tenderers should submit Six (6) hard copies (One (1) Original and Five (5) copies) and an electronic copy of the Technical Specification on a pendrive in a sealed envelope.<br />
+9.	Tenders shall be opened in the presence of the Tenderers and/or their   representatives who choose to attend at the Board Room, 4th Floor, Room 407, Cocoa House, immediately after close of tender on Wednesday, 16th October, 2019.<br />
+10. 	Tenders clearly labeled and marked “PROCUREMENT OF VARIOUS VEHICLE AND MOTORBIKES” must be deposited in a tender box at the address below on or before Wednesday, 16th October, 2019 at 10.30 am:<br />
+Address:         Procurement Department,<br />
+               		5th Floor, Cocoa House (Room 502)<br />
+                                    (Near The Central Police Station and Opposite<br />
+                                    The Ghana Supply Company Ltd., Accra) <br />
+<br />
+Telephone:     233-0302-661872<br />
+233-0302-661873<br />
+233-0302-683300<br />
+<br />
+Fax:		233-0302-667104<br />
+       			233-0302-661681<br />
+       			233-0302-669808<br />
+233-0302-679864<br />
+<br />
+Email:		cocobod@cocobod.gh<br />
+Late submissions shall be rejected.<br />
+<br />
+<br />
+          CHIEF EXECUTIVE</dd></dl>
+
+<hr>
+
+<dl><dt>Approval Auth:</dt><dd>Entity Tender Committee</dd></dl>
+<dl><dt>Contract Date:</dt><dd>13th March, 2020</dd></dl>
+<dl><dt>Delivery / Completion Date:</dt><dd>13th September, 2020</dd></dl>
+<dl><dt>Contract Currency:</dt><dd>Ghana Cedi</dd></dl>
+<dl><dt>Contract Award Price:</dt><dd>Gh¢3595500.00</dd></dl>
+
+<hr>
+
+<dl><dt>Contract Awarded To:</dt><dd>CFAO EQUIPMENT GHANA LIMITED</dd></dl>
+<dl><dt>Company Email:</dt><dd></dd></dl>
+<dl><dt>Company Address:</dt><dd></dd></dl>
+<dl><dt>Company Tel:</dt><dd></dd></dl>
+<dl><dt>Supplier #:</dt><dd>-</dd></dl>
+
+<hr>
+
+                                </div>
+                            </div><!-- /.col-md-9 --> 
+                        </div><!-- /.wrap-main-post -->
+                    </div><!-- /.row -->
+                </div>            
+            </div><!-- /.container -->   
+        </section><!-- /.main-content -->
+        <!-- Bottom -->
+        <div class="bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="container-bottom">
+                            <div class="copyright"> 
+                                <p>Coyright © 2019 PPA Ghana. All rights reserved.</p>
+                            </div>    
+                        </div><!-- /.container-bottom -->
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- Bottom -->
+
+        <!-- Go Top -->
+        <a class="go-top">
+            <i class="fa fa-arrow-up" aria-hidden="true"></i>
+        </a>   
+        
+       <!-- Javascript -->
+        <script src="https://tenders.ppa.gov.gh/javascript/jquery.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/bootstrap4.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/front.js"></script>
+    </div> <!-- /.boxed -->
+</body>
+</html>

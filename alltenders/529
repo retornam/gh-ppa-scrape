@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>PPA Ghana</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/stylesheets/style.css">
+    <link href="https://tenders.ppa.gov.gh/css/helpers.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/front.css">
+    <link href="images/icon/favicon.png" rel="shortcut icon">
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>  
+
+<body class="header-sticky">
+
+    <div class="boxed">
+        <!-- Wrap-slide -->
+        <div class="wrap-slider">
+            <!-- Header -->            
+            <header id="header" class="header style-color clearfix">
+                <div class="container">
+                    <div class="header-wrap d-flex justify-content-between align-items-center">
+                        <div id="logo" class="logo">
+                            <a href="/" rel="home">
+                                <img src="https://tenders.ppa.gov.gh/images/logo2.jpg" alt="image" style="height: 100px">
+                            </a>
+                        </div><!-- /.logo -->
+                        <div class="">
+                            <a href="https://tenders.ppa.gov.gh/admin" class="btn btn-danger"><i class="fa fa-lock"></i> Admin</a>
+                        </div>
+                    </div><!-- /.header-wrap -->
+                </div>
+            </header><!-- /.header -->
+        </div> <!-- /.wrap-slider -->
+
+        <section id="navbar">    
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <a class="navbar-brand d-lg-none" href="#">Nav Menu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </section>
+        
+        <!-- posts -->
+        <section class="main-content bg-sidebar sidebar-left mr-b-50">
+            <div class="container">
+                <div class="flat-overview">
+                    <div class="wrap-main-post">
+                        <div class="row">
+                                                            <div class="col-md-3">
+                                    <div class="sidebar">
+                                                                                <div class="widget widget-categories team">
+                                            <h4>Page Links</h4>
+                                            <nav class="navbar bg-light">
+                                                <ul class="navbar-nav">
+                                                    <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                                                </ul>
+                                            </nav>
+                                        </div><!-- /widget-archives -->
+                                    </div><!-- /sidebar -->
+                                </div><!-- /col-md-3 -->
+                            
+                            <div class="col-md-9">
+                                <h3 class="title">Contract Details</h3>
+                                <div class="content">
+                                    
+<dl><dt>Awarding Agency:</dt><dd>Volta River Authority</dd></dl>
+<dl><dt>Tender Package No:</dt><dd>VRA/MIS-B-12000885</dd></dl>
+<dl><dt>Tender Type:</dt><dd>NCT</dd></dl>
+<dl><dt>Contract Type:</dt><dd>Open Tender</dd></dl>
+<dl><dt>Lot #:</dt><dd>1</dd></dl>
+<dl><dt>Tender Description:</dt><dd>a. Supply of Desktop Computers    b. Supply of Notebook Computers    c. Supply of Scanners/Slide Scanner    d. Supply of Printers and Plotter    e. Supply of LCD Projectors, Projector Screen and Digital Cameras </dd></dl>
+
+<hr>
+
+<dl><dt>Approval Auth:</dt><dd>Ministerial Tender Review Committee</dd></dl>
+<dl><dt>Contract Date:</dt><dd>05th December, 2012</dd></dl>
+<dl><dt>Delivery / Completion Date:</dt><dd>20th March, 2013</dd></dl>
+<dl><dt>Contract Currency:</dt><dd>Ghana Cedi</dd></dl>
+<dl><dt>Contract Award Price:</dt><dd>Gh¢89760.30</dd></dl>
+
+<hr>
+
+<dl><dt>Contract Awarded To:</dt><dd>Office Plus</dd></dl>
+<dl><dt>Company Email:</dt><dd></dd></dl>
+<dl><dt>Company Address:</dt><dd>P. O. Box 16353
+KIA-Accra</dd></dl>
+<dl><dt>Company Tel:</dt><dd></dd></dl>
+<dl><dt>Supplier #:</dt><dd>-</dd></dl>
+
+<hr>
+
+                                </div>
+                            </div><!-- /.col-md-9 --> 
+                        </div><!-- /.wrap-main-post -->
+                    </div><!-- /.row -->
+                </div>            
+            </div><!-- /.container -->   
+        </section><!-- /.main-content -->
+        <!-- Bottom -->
+        <div class="bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="container-bottom">
+                            <div class="copyright"> 
+                                <p>Coyright © 2019 PPA Ghana. All rights reserved.</p>
+                            </div>    
+                        </div><!-- /.container-bottom -->
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- Bottom -->
+
+        <!-- Go Top -->
+        <a class="go-top">
+            <i class="fa fa-arrow-up" aria-hidden="true"></i>
+        </a>   
+        
+       <!-- Javascript -->
+        <script src="https://tenders.ppa.gov.gh/javascript/jquery.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/bootstrap4.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/front.js"></script>
+    </div> <!-- /.boxed -->
+</body>
+</html>

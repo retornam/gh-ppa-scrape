@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>PPA Ghana</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/bootstrap4.min.css">
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/stylesheets/style.css">
+    <link href="https://tenders.ppa.gov.gh/css/helpers.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://tenders.ppa.gov.gh/css/front.css">
+    <link href="images/icon/favicon.png" rel="shortcut icon">
+
+    <!--[if lt IE 9]>
+        <script src="javascript/html5shiv.js"></script>
+        <script src="javascript/respond.min.js"></script>
+    <![endif]-->
+</head>  
+
+<body class="header-sticky">
+
+    <div class="boxed">
+        <!-- Wrap-slide -->
+        <div class="wrap-slider">
+            <!-- Header -->            
+            <header id="header" class="header style-color clearfix">
+                <div class="container">
+                    <div class="header-wrap d-flex justify-content-between align-items-center">
+                        <div id="logo" class="logo">
+                            <a href="/" rel="home">
+                                <img src="https://tenders.ppa.gov.gh/images/logo2.jpg" alt="image" style="height: 100px">
+                            </a>
+                        </div><!-- /.logo -->
+                        <div class="">
+                            <a href="https://tenders.ppa.gov.gh/admin" class="btn btn-danger"><i class="fa fa-lock"></i> Admin</a>
+                        </div>
+                    </div><!-- /.header-wrap -->
+                </div>
+            </header><!-- /.header -->
+        </div> <!-- /.wrap-slider -->
+
+        <section id="navbar">    
+            <div class="container">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <a class="navbar-brand d-lg-none" href="#">Nav Menu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav">
+                            <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </section>
+        
+        <!-- posts -->
+        <section class="main-content bg-sidebar sidebar-left mr-b-50">
+            <div class="container">
+                <div class="flat-overview">
+                    <div class="wrap-main-post">
+                        <div class="row">
+                                                            <div class="col-md-3">
+                                    <div class="sidebar">
+                                                                                <div class="widget widget-categories team">
+                                            <h4>Page Links</h4>
+                                            <nav class="navbar bg-light">
+                                                <ul class="navbar-nav">
+                                                    <li class="nav-item"><a class="nav-link" href="https://ppa.gov.gh"><strong><i class="fa fa-mail-reply"></i> &nbsp; Main Website</strong></a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/tenders">Open Tenders</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/eois">Expression of Interests</a></li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/prqs">Prequalifications</a></li>
+
+<li class="nav-item dropdown">
+	<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contracts</a>
+	<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+		<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts"> + All Contracts</a>
+					<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=1"> + Open Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=2"> + Restricted Tender Contracts</a>
+        			<a class="dropdown-item" href="https://tenders.ppa.gov.gh/contracts?type=3"> + Single Sourced Contracts</a>
+        	</div>
+</li>
+
+<li class="nav-item"><a class="nav-link" href="https://tenders.ppa.gov.gh/agencies">Agencies</a></li>
+
+                                                </ul>
+                                            </nav>
+                                        </div><!-- /widget-archives -->
+                                    </div><!-- /sidebar -->
+                                </div><!-- /col-md-3 -->
+                            
+                            <div class="col-md-9">
+                                <h3 class="title">Contract Details</h3>
+                                <div class="content">
+                                    
+<dl><dt>Awarding Agency:</dt><dd>Ministry of Communications and Digitalisation</dd></dl>
+<dl><dt>Tender Package No:</dt><dd>eTransform/RComp/2.1.2</dd></dl>
+<dl><dt>Tender Type:</dt><dd>ICT</dd></dl>
+<dl><dt>Contract Type:</dt><dd>Open Tender</dd></dl>
+<dl><dt>Lot #:</dt><dd>2</dd></dl>
+<dl><dt>Tender Description:</dt><dd>Digitization Service and its implementation in Current Operational and/or Content Management System for selected MDAs<br />
+<br />
+This Invitation for Bids (IFB) follows the General Procurement Notice (GPN) for this project that appeared in UNDB issue No WB5553-11/14 of November 4, 2014.<br />
+2.	The Government of Ghana has received a credit from the International Development Association toward the cost of the eTransform Project, and it intends to apply part of the proceeds of this credit to payments under the agreement(s) resulting from this IFB: Digitization Service and its implementation in Current Operational and/or Content Management System for Births and Deaths Registry, Ghana Immigration Service, Registrar Generalâ€™s Department, Judicial Service of Ghana and Office of the Attorney General and Ministry of Justice. <br />
+The scope of works will include;<br />
+â€¢	Conducting a digitization service in accordance with the methodological, organizational and technical aspects of the Public Records Digitization Program;<br />
+â€¢	Training and transferring the required knowledge to beneficiary agency staff to allow them to maintain and to make further improvements to digitization service; <br />
+â€¢	Design and implement an Enterprise Content Management (ECM) system to capture the business processes of all Divisions and Units in the Agency related to digital asset management, document imaging, workflow systems and records management systems;<br />
+â€¢	Training and transferring the required knowledge to beneficiary agency staff to allow them to maintain and to make further improvements to the ECM.<br />
+3.	The Ministry of Communications will serve as the implementing agency for the project, and now invites sealed bids from eligible Bidders for the Digitization Service and its implementation in Current Operational and/or Content Management System for the Agencies in Lots as follows: <br />
+Lot 1:	Registrar Generalâ€™s Department (eTP/RComp/2.1.2-L1)<br />
+Lot 2:	Birth and Death Registry (eTP/RComp/2.1.2-L2)<br />
+Lot 3:	Ghana Immigration Service (eTP/RComp/2.1.2-L3)<br />
+Lot 4:	Judicial Service of Ghana (eTP/RComp/2.1.2-L4)<br />
+Lot 5:	Office of Attorney General and Ministry of Justice (eTP/RComp/2.1.2-L5)<br />
+<br />
+Bidders are expected to demonstrate the following core competencies:<br />
+a)	Competence in digitization and document management with workflow systems.<br />
+b)	Competence in Change Management strategy to drive system use after implementation.<br />
+<br />
+Bidders may bid for one or more Lots. Bids will be evaluated and contract awarded on per Lot (agency) basis.  Bids which do not offer all the items under a selected agency shall be rejected as non-responsive. Bidders may compete for one, two, three or all agencies.<br />
+	4.	Bidding will be conducted using the International Competitive Bidding (ICB) procedures specified in the World Bankâ€™s Guidelines: Procurement of Goods, Works, and Non-Consulting Services under IBRD Loans and IDA Credits &amp; Grants January 2011 Revised July 2014 and is open to all Bidders eligible as defined in these Guidelines that meet the following minimum qualification criteria for all Lots (agencies).<br />
+	a)	Experience <br />
+	The Bidder must have <br />
+	(i)	Successfully completed at least three (3) contracts with similar functional/technical characteristics and of a comparable scale, each of which were of at least US$0.5 million in value, during the past five (5) years for the Digitization of public records. In the case of a Joint Venture, the Lead Partner shall have led at least one of the two above contracts. <br />
+(ii)	Successfully implemented Enterprise Content Management System for a government agency in last 5 years.<br />
+	<br />
+	b)	Technical Capacity:<br />
+(i)	The Bidder shall have experience in scanning, inputting into an ECMS with appropriate indexing and capable of integration with 3rd party application as per requirements.<br />
+<br />
+(ii)	The Bidder must demonstrate it can provide data capacity for temporary holding the digitized documents until the Employer can put in place the ECMS system for data to be transferred.<br />
+	<br />
+	c)	Financial Capacity <br />
+	(i)	Minimum average annual turnover of USD 0.5 million, cumulative per each Ministry, Department, Agency (MDA), calculated as total certified payments received for contracts in progress or completed within the last five (5) years (2012 -2017). Bidders are required to submit audited balance sheets and income statements for the last five (5) years as part of their financial statements<br />
+	(ii).	Demonstrate evidence of the firmâ€™s liquidity in the form of cash flow, liquid assets and/or credit lines net of other ongoing commitments at the minimum required amount of USD 1 million.<br />
+	(iii) 		Each joint venture member or sub-contractor undertaking a significant portion of work under this contract (20% or greater of the estimated value of the contract) must be financially stable, with gross revenue base of at least US$1 million annually over the last three (3) years, and liquid assets of at least US $ 0.5million.<br />
+Bidders are advised to provide quotes for the scanning in the following volumes of documents using Cost Table C for that purpose:<br />
+<br />
+One to two million documents;<br />
+From more than Two million to Five million documents;<br />
+From more than Five million to Seven million documents;<br />
+From more than Seven million to Ten million documents; and<br />
+From more than Ten million to Fifteen million documents</dd></dl>
+
+<hr>
+
+<dl><dt>Approval Auth:</dt><dd>Central Tender Review Committee</dd></dl>
+<dl><dt>Contract Date:</dt><dd>02nd April, 2019</dd></dl>
+<dl><dt>Delivery / Completion Date:</dt><dd>02nd January, 2020</dd></dl>
+<dl><dt>Contract Currency:</dt><dd>USA Dollar</dd></dl>
+<dl><dt>Contract Award Price:</dt><dd>$2550368.05</dd></dl>
+
+<hr>
+
+<dl><dt>Contract Awarded To:</dt><dd>VILT Iberica SLU & Twenty-Third Century System Ghana Limited</dd></dl>
+<dl><dt>Company Email:</dt><dd>info@ttcsghana.com</dd></dl>
+<dl><dt>Company Address:</dt><dd>No. 1 Kunkun Close Mempeasem, East Legon-Accra</dd></dl>
+<dl><dt>Company Tel:</dt><dd>030 250 6325</dd></dl>
+<dl><dt>Supplier #:</dt><dd>-</dd></dl>
+
+<hr>
+
+                                </div>
+                            </div><!-- /.col-md-9 --> 
+                        </div><!-- /.wrap-main-post -->
+                    </div><!-- /.row -->
+                </div>            
+            </div><!-- /.container -->   
+        </section><!-- /.main-content -->
+        <!-- Bottom -->
+        <div class="bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="container-bottom">
+                            <div class="copyright"> 
+                                <p>Coyright © 2019 PPA Ghana. All rights reserved.</p>
+                            </div>    
+                        </div><!-- /.container-bottom -->
+                    </div>
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- Bottom -->
+
+        <!-- Go Top -->
+        <a class="go-top">
+            <i class="fa fa-arrow-up" aria-hidden="true"></i>
+        </a>   
+        
+       <!-- Javascript -->
+        <script src="https://tenders.ppa.gov.gh/javascript/jquery.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/bootstrap4.min.js"></script>
+        <script src="https://tenders.ppa.gov.gh/js/front.js"></script>
+    </div> <!-- /.boxed -->
+</body>
+</html>
